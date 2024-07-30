@@ -25,7 +25,7 @@
 
 ## Introduction
 
-This project, developed by Atharva Khadse from VIT Vellore, is designed for a chemical industry to manage H2S gas detection. The industry faced significant costs due to frequent false alarms triggered by sensors detecting H2S gas, which is hazardous to health. The system aims to reduce unnecessary sanitization processes by predicting whether an alarm is dangerous or not using a machine learning algorithm.
+This project is designed for a chemical industry to manage H2S gas detection. The industry faced significant costs due to frequent false alarms triggered by sensors detecting H2S gas, which is hazardous to health. The system aims to reduce unnecessary sanitization processes by predicting whether an alarm is dangerous or not using a machine learning algorithm.
 
 ## Existing System
 
